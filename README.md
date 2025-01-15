@@ -60,8 +60,6 @@
 ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical&width=1600)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=vkuznets23&theme=radical)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
 
 ---
 
