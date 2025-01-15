@@ -40,7 +40,7 @@
 - Self-motivation & Time Management
 - Attention to Detail
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical&width=800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical&width=1600)
 
 ---
 
