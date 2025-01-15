@@ -20,28 +20,6 @@
   - Learning best practices for Test-driven development (TDD) and how to write tests to ensure reliability and improve code quality.
 
 ## 🛠️ Skills
-**Frontend Development:**
-- HTML5, CSS3, JavaScript (ES6+), React
-
-**Backend Development:**
-- Node.js, Express.js
-- RESTful APIs, CRUD operations
-- MongoDB, Mongoose (NoSQL databases)
-
-**Testing:**
-- Unit Testing with Jest and React Testing Library
-
-**Development Tools:**
-- npm, Postman (API testing)
-
-**Soft Skills:**
-- Problem Solving & Critical Thinking
-- Adaptability & Collaboration
-- Self-motivation & Time Management
-- Attention to Detail
-
-  ## 🛠️ Skills
-
 <table>
   <tr>
     <td>
