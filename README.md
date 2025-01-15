@@ -1,33 +1,46 @@
 # Hi there, I'm Viktoriia! 👋  
-🌟 **Aspiring Frontend Developer with experience in UX/UI design. I'm passioned about programming and learning.**
+🌟 **Aspiring Frontend Developer with UX/UI design experience, passionate about programming and learning.**
 
 ## 💻 About My Journey
 🎓 Studying at **Hive**:  
-- Solving challenging tasks in **C** and **C++** as part of a peer-to-peer education system.  
-- Currently working on a graphical raycasting project making a 3D game
+- Exploring Imperative Programming in C, mastering fundamentals like variables, control flows, and tackling complex projects.
+- Advancing in Object-Oriented Programming in C++, including classes, inheritance, and polymorphism.
+- Diving into Data Structures & Algorithms to write efficient code and solve complex problems.
+- Learning Concurrent Programming to optimize performance with threads and processes while ensuring synchronization.
+
+**--> Currently working on a Graphics Programming project, using ray tracing techniques to develop a 3D game.**
   
 📚 Taking the **Full Stack Developer** course by [Open University of Helsinki](https://fullstackopen.com/):  
-- Learning **JavaScript**, **React**, **Node.js**, **REST APIs**, **GraphQL**, and more.  
-- Applying these skills in practical projects and exercises.
-
-## 🎯 My Goals
-- Become a skilled **Frontend Developer**, building functional and user-friendly interfaces.  
-- Master modern technologies like **React**, **TypeScript**, and **Next.js**.  
-- Combine creativity and functionality to craft exceptional web experiences.
+**Part 1:** Learned the basics of web development, including HTML, CSS, and JavaScript. Started building simple static web pages and got an introduction to the fundamentals of client-side scripting.
+**Part 2:** Dive into React, understanding components, state, and props. Built dynamic single-page applications (SPAs) using React and learned about component-based architecture.
+**Part 3:** Explored backend development with Node.js and Express, learning how to create RESTful APIs and interact with databases like MongoDB. Built full-stack applications by connecting front-end React applications to backend services.
+**--> Currently in Part 4:** Testing, where I'm focusing on:
+  - Unit testing with Jest and React Testing Library for frontend code.
+  - Integration testing for backend APIs using tools like Supertest.
+  - Learning best practices for Test-driven development (TDD) and how to write tests to ensure reliability and improve code quality.
 
 ## 🛠️ Skills
-- **Technologies:** HTML, CSS, React, Node.js, Express.js  
-- **Soft Skills:** Problem-solving, teamwork, adaptability  
+**Frontend Development:**
+- HTML5, CSS3, JavaScript (ES6+), React
 
-## 🚀 Featured Projects
-### [Project Name 1](link-to-repo)
-Brief description of the project, its purpose, and features.
+**Backend Development:**
+- Node.js, Express.js
+- RESTful APIs, CRUD operations
+- MongoDB, Mongoose (NoSQL databases)
 
-### [Project Name 2](link-to-repo)
-Brief description of the project, its purpose, and features.
+**Testing:**
+- Unit Testing with Jest and React Testing Library
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vkuznets23&show_icons=true&theme=radical)  
+**Development Tools:**
+- npm, Postman (API testing)
+
+**Soft skills:**
+- Problem Solving & Critical Thinking
+- Adaptability & Collaboration
+- Self-motivation & Time Management
+- Attention to Detail
+- Continuous Learning
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical)
 
 ---
