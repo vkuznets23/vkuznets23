@@ -44,5 +44,4 @@
 
 ---
 
-## 🔗 Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/viktoriia-kuznetsova/) | [Email](mailto:victoria.cuzneczowa23@gmail.com) 
+## 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/viktoriia-kuznetsova/) | [Email](mailto:victoria.cuzneczowa23@gmail.com) 
