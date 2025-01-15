@@ -1,4 +1,4 @@
-## My name is Viktoriia! I'm an aspiring Frontend Developer with UX/UI design experience, I'm passionate about programming and learning
+## My name is Viktoriia! 👋 I'm an aspiring Frontend Developer with UX/UI design experience
 
 ### 🎓 Studying at [Hive](https://www.hive.fi/en/):
 At Hive, I’m learning C and C++ programming, focusing on foundational topics like variables, control flows, and object-oriented programming. I’m also studying Data Structures & Algorithms, Concurrent Programming (using threads and processes), and **currently working on a Graphics Programming project to develop a 3D game with ray tracing techniques**
@@ -54,3 +54,7 @@ During the Full Stack Developer course, I gained experience in front-end develop
 ---
 
 ## 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/viktoriia-kuznetsova/) | [Email](mailto:victoria.cuzneczowa23@gmail.com) 
+## 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriia-kuznetsova/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.cuzneczowa23@gmail.com)
+
