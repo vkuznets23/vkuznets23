@@ -20,20 +20,29 @@
   - Learning best practices for Test-driven development (TDD) and how to write tests to ensure reliability and improve code quality.
 
 ## 🛠️ Skills
-**Frontend Development:**                                **Development Tools:**
-- HTML5, CSS3, JavaScript (ES6+), React                  - npm, Postman (API testing)
+**Frontend Development:**
+- HTML5, CSS3, JavaScript (ES6+), React
 
-**Backend Development:**                                 **Soft Skills:**
-- Node.js, Express.js                                    - Problem Solving, Critical Thinking & Attention to detail
-- RESTful APIs, CRUD operations                          - Adaptability & Collaboration
-- MongoDB, Mongoose (NoSQL databases)                    - Self-motivation & Time Management
+**Backend Development:**
+- Node.js, Express.js
+- RESTful APIs, CRUD operations
+- MongoDB, Mongoose (NoSQL databases)
 
 **Testing:**
 - Unit Testing with Jest and React Testing Library
+
+**Development Tools:**
+- npm, Postman (API testing)
+
+**Soft Skills:**
+- Problem Solving & Critical Thinking
+- Adaptability & Collaboration
+- Self-motivation & Time Management
+- Attention to Detail
 
 ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical&width=1600)
 
 ---
 
-🔗 **Connect with me:**  
+## 🔗 Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/viktoriia-kuznetsova/) | [Email](mailto:victoria.cuzneczowa23@gmail.com) 
