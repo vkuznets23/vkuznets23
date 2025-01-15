@@ -1,7 +1,6 @@
 # Hi there, I'm Viktoriia! 👋  
 🌟 *Aspiring Frontend Developer with UX/UI design experience, passionate about programming and learning.*
 
-## 💻 My studying
 ### 🎓 Studying at [Hive](https://www.hive.fi/en/):
 - Exploring Imperative Programming in C, mastering fundamentals like variables, control flows, and tackling complex projects.
 - Advancing in Object-Oriented Programming in C++, including classes, inheritance, and polymorphism.
