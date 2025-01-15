@@ -1,4 +1,4 @@
-### My name is Viktoriia! I'm an aspiring Frontend Developer with UX/UI design experience, I'm passionate about programming and learning
+## My name is Viktoriia! I'm an aspiring Frontend Developer with UX/UI design experience, I'm passionate about programming and learning
 
 ### 🎓 Studying at [Hive](https://www.hive.fi/en/):
 At Hive, I’m learning C and C++ programming, focusing on foundational topics like variables, control flows, and object-oriented programming. I’m also studying Data Structures & Algorithms, Concurrent Programming (using threads and processes), and **currently working on a Graphics Programming project to develop a 3D game with ray tracing techniques**
