@@ -20,6 +20,11 @@
   - Learning best practices for Test-driven development (TDD) and how to write tests to ensure reliability and improve code quality.
 
 ## 🛠️ Skills
+
+<table>
+  <tr>
+    <td>
+
 **Frontend Development:**
 - HTML5, CSS3, JavaScript (ES6+), React
 
@@ -31,15 +36,22 @@
 **Testing:**
 - Unit Testing with Jest and React Testing Library
 
+    </td>
+    <td>
+
 **Development Tools:**
 - npm, Postman (API testing)
 
-**Soft skills:**
+**Soft Skills:**
 - Problem Solving & Critical Thinking
 - Adaptability & Collaboration
 - Self-motivation & Time Management
 - Attention to Detail
 - Continuous Learning
+
+    </td>
+  </tr>
+</table>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical)
 
