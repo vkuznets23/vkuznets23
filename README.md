@@ -20,39 +20,46 @@
   - Learning best practices for Test-driven development (TDD) and how to write tests to ensure reliability and improve code quality.
 
 ## 🛠️ Skills
+## 🛠️ Skills
+
 <table>
   <tr>
+    <th>Frontend Development</th>
+    <th>Backend Development</th>
+    <th>Soft Skills</th>
+  </tr>
+  <tr>
     <td>
-
-**Frontend Development:**
-- HTML5, CSS3, JavaScript (ES6+), React
-
-**Backend Development:**
-- Node.js, Express.js
-- RESTful APIs, CRUD operations
-- MongoDB, Mongoose (NoSQL databases)
-
+      - HTML5, CSS3, JavaScript (ES6+), React
     </td>
     <td>
-
-**Testing:**
-- Unit Testing with Jest and React Testing Library
-
-**Development Tools:**
-- npm, Postman (API testing)
-
+      - Node.js, Express.js
+      - RESTful APIs, CRUD operations
+      - MongoDB, Mongoose (NoSQL databases)
     </td>
     <td>
-
-**Soft Skills:**
-- Problem Solving & Critical Thinking
-- Adaptability & Collaboration
-- Self-motivation & Time Management
-- Attention to Detail
-
+      - Problem Solving & Critical Thinking
+      - Adaptability & Collaboration
+      - Self-motivation & Time Management
+      - Attention to Detail
     </td>
   </tr>
+  <tr>
+    <th>Testing</th>
+    <th>Development Tools</th>
+    <th></th> <!-- Empty cell to keep the table balanced -->
+  </tr>
+  <tr>
+    <td>
+      - Unit Testing with Jest and React Testing Library
+    </td>
+    <td>
+      - npm, Postman (API testing)
+    </td>
+    <td></td> <!-- Empty cell to keep the table balanced -->
+  </tr>
 </table>
+
 
 
 ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical&width=1600)
