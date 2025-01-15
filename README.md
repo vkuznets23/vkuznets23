@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋  
+# Hi there, I'm Viktoriia! 👋  
 🌟 **Aspiring Frontend Developer with experience in UX/UI design. I'm passioned about programming and learning.**
 
 ## 💻 About My Journey
