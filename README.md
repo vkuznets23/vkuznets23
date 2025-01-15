@@ -21,37 +21,33 @@
 
 ## 🛠️ Skills
 
-<table>
-  <tr>
-    <td>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 1; min-width: 250px; margin-right: 20px;">
+    **Frontend Development:**
+    - HTML5, CSS3, JavaScript (ES6+), React
 
-**Frontend Development:**
-- HTML5, CSS3, JavaScript (ES6+), React
+    **Backend Development:**
+    - Node.js, Express.js
+    - RESTful APIs, CRUD operations
+    - MongoDB, Mongoose (NoSQL databases)
 
-**Backend Development:**
-- Node.js, Express.js
-- RESTful APIs, CRUD operations
-- MongoDB, Mongoose (NoSQL databases)
+    **Testing:**
+    - Unit Testing with Jest and React Testing Library
+  </div>
 
-**Testing:**
-- Unit Testing with Jest and React Testing Library
+  <div style="flex: 1; min-width: 250px;">
+    **Development Tools:**
+    - npm, Postman (API testing)
 
-    </td>
-    <td>
+    **Soft Skills:**
+    - Problem Solving & Critical Thinking
+    - Adaptability & Collaboration
+    - Self-motivation & Time Management
+    - Attention to Detail
+    - Continuous Learning
+  </div>
+</div>
 
-**Development Tools:**
-- npm, Postman (API testing)
-
-**Soft Skills:**
-- Problem Solving & Critical Thinking
-- Adaptability & Collaboration
-- Self-motivation & Time Management
-- Attention to Detail
-- Continuous Learning
-
-    </td>
-  </tr>
-</table>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical)
 
