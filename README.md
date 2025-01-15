@@ -59,6 +59,8 @@
 
 ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical&width=1600)
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=vkuznets23&theme=radical)
+
 ---
 
 ## 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/viktoriia-kuznetsova/) | [Email](mailto:victoria.cuzneczowa23@gmail.com) 
