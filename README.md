@@ -20,7 +20,6 @@
   - Learning best practices for Test-driven development (TDD) and how to write tests to ensure reliability and improve code quality.
 
 ## 🛠️ Skills
-## 🛠️ Skills
 
 <table>
   <tr>
