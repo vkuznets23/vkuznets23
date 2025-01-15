@@ -2,8 +2,7 @@
 🌟 *Aspiring Frontend Developer with UX/UI design experience, passionate about programming and learning.*
 
 ### 🎓 Studying at [Hive](https://www.hive.fi/en/):
-- Exploring Imperative Programming in C, mastering fundamentals like variables, control flows, and tackling complex projects.
-- Advancing in Object-Oriented Programming in C++, including classes, inheritance, and polymorphism.
+![Languages](https://skillicons.dev/icons?i=c,cpp)
 - Diving into Data Structures & Algorithms to write efficient code and solve complex problems.
 - Learning Concurrent Programming to optimize performance with threads and processes while ensuring synchronization.
 - **--> Currently working on a Graphics Programming project, using ray tracing techniques to develop a 3D game.**
