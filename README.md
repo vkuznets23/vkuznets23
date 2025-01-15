@@ -41,7 +41,9 @@
 - Attention to Detail
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical&width=1600)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical" width="800" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical" width="1000"/>
+</p>
 
 ---
 
