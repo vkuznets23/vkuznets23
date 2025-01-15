@@ -53,7 +53,6 @@ During the Full Stack Developer course, I gained experience in front-end develop
 
 ---
 
-## 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/viktoriia-kuznetsova/) | [Email](mailto:victoria.cuzneczowa23@gmail.com) 
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriia-kuznetsova/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.cuzneczowa23@gmail.com)
