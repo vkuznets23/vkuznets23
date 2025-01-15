@@ -6,8 +6,9 @@
 - ![Languages](https://skillicons.dev/icons?i=c,cpp)
 
 ### 📚 Taking the **Full Stack Developer** course by [Open University of Helsinki](https://fullstackopen.com/):
-During the Full Stack Developer course, I gained experience in front-end development, building dynamic SPAs and working with backend technologies to create and connect RESTful APIs to databases. I also focused on writing tests and applying Test-Driven Development (TDD) to ensure code reliability and quality.
-![My Tools](https://skillicons.dev/icons?i=HTML, CSS, JavaScrips, react, node.js, Express, MongoDB]
+- During the Full Stack Developer course, I gained experience in front-end development, building dynamic SPAs and working with backend technologies to create and connect RESTful APIs to databases. I also focused on writing tests and applying Test-Driven Development (TDD) to ensure code reliability and quality.
+- ![Languages](https://skillicons.dev/icons?i=javascript)
+
 
 ## 🛠️ Skills
 
