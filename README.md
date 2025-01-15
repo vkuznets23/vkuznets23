@@ -2,7 +2,7 @@
 🌟 **Aspiring Frontend Developer with UX/UI design experience, passionate about programming and learning.**
 
 ## 💻 About My Journey
-🎓 Studying at **Hive**:  
+🎓 Studying at [Hive](https://www.hive.fi/en/):
 - Exploring Imperative Programming in C, mastering fundamentals like variables, control flows, and tackling complex projects.
 - Advancing in Object-Oriented Programming in C++, including classes, inheritance, and polymorphism.
 - Diving into Data Structures & Algorithms to write efficient code and solve complex problems.
@@ -11,9 +11,9 @@
 **--> Currently working on a Graphics Programming project, using ray tracing techniques to develop a 3D game.**
   
 📚 Taking the **Full Stack Developer** course by [Open University of Helsinki](https://fullstackopen.com/):  
-**Part 1:** Learned the basics of web development, including HTML, CSS, and JavaScript. Started building simple static web pages and got an introduction to the fundamentals of client-side scripting.
+**Part 1:** Learned the basics of web development, including HTML, CSS, and JavaScript. I started building simple static web pages and got an introduction to the fundamentals of client-side scripting.
 **Part 2:** Dive into React, understanding components, state, and props. Built dynamic single-page applications (SPAs) using React and learned about component-based architecture.
-**Part 3:** Explored backend development with Node.js and Express, learning how to create RESTful APIs and interact with databases like MongoDB. Built full-stack applications by connecting front-end React applications to backend services.
+**Part 3:** Explored backend development with Node.js and Express, learning to create RESTful APIs and interact with databases like MongoDB. Built full-stack applications by connecting front-end React applications to backend services.
 **--> Currently in Part 4:** Testing, where I'm focusing on:
   - Unit testing with Jest and React Testing Library for frontend code.
   - Integration testing for backend APIs using tools like Supertest.
@@ -39,6 +39,43 @@
 - Adaptability & Collaboration
 - Self-motivation & Time Management
 - Attention to Detail
+
+  ## 🛠️ Skills
+
+<table>
+  <tr>
+    <td>
+
+**Frontend Development:**
+- HTML5, CSS3, JavaScript (ES6+), React
+
+**Backend Development:**
+- Node.js, Express.js
+- RESTful APIs, CRUD operations
+- MongoDB, Mongoose (NoSQL databases)
+
+    </td>
+    <td>
+
+**Testing:**
+- Unit Testing with Jest and React Testing Library
+
+**Development Tools:**
+- npm, Postman (API testing)
+
+    </td>
+    <td>
+
+**Soft Skills:**
+- Problem Solving & Critical Thinking
+- Adaptability & Collaboration
+- Self-motivation & Time Management
+- Attention to Detail
+
+    </td>
+  </tr>
+</table>
+
 
 ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical&width=1600)
 
