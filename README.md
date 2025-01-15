@@ -7,8 +7,7 @@
 - Advancing in Object-Oriented Programming in C++, including classes, inheritance, and polymorphism.
 - Diving into Data Structures & Algorithms to write efficient code and solve complex problems.
 - Learning Concurrent Programming to optimize performance with threads and processes while ensuring synchronization.
-
-**--> Currently working on a Graphics Programming project, using ray tracing techniques to develop a 3D game.**
+- **--> Currently working on a Graphics Programming project, using ray tracing techniques to develop a 3D game.**
 
 ### 📚 Taking the **Full Stack Developer** course by [Open University of Helsinki](https://fullstackopen.com/):  
 - **Part 1:** Learned the basics of web development, including HTML, CSS, and JavaScript. I started building simple static web pages and got an introduction to the fundamentals of client-side scripting.
@@ -58,8 +57,6 @@
     <td></td> <!-- Empty cell to keep the table balanced -->
   </tr>
 </table>
-
-
 
 ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical&width=1600)
 
