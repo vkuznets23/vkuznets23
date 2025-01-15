@@ -2,15 +2,15 @@
 🌟 **Aspiring Frontend Developer with UX/UI design experience, passionate about programming and learning.**
 
 ## 💻 About My Journey
-🎓 Studying at [Hive](https://www.hive.fi/en/):
+### 🎓 Studying at [Hive](https://www.hive.fi/en/):
 - Exploring Imperative Programming in C, mastering fundamentals like variables, control flows, and tackling complex projects.
 - Advancing in Object-Oriented Programming in C++, including classes, inheritance, and polymorphism.
 - Diving into Data Structures & Algorithms to write efficient code and solve complex problems.
 - Learning Concurrent Programming to optimize performance with threads and processes while ensuring synchronization.
 
 **--> Currently working on a Graphics Programming project, using ray tracing techniques to develop a 3D game.**
-  
-📚 Taking the **Full Stack Developer** course by [Open University of Helsinki](https://fullstackopen.com/):  
+
+### 📚 Taking the **Full Stack Developer** course by [Open University of Helsinki](https://fullstackopen.com/):  
 - **Part 1:** Learned the basics of web development, including HTML, CSS, and JavaScript. I started building simple static web pages and got an introduction to the fundamentals of client-side scripting.
 - **Part 2:** Dive into React, understanding components, state, and props. Built dynamic single-page applications (SPAs) using React and learned about component-based architecture.
 - **Part 3:** Explored backend development with Node.js and Express, learning to create RESTful APIs and interact with databases like MongoDB. Built full-stack applications by connecting front-end React applications to backend services.
