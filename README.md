@@ -42,6 +42,39 @@
 
 ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical&width=1600)
 
+## 🛠️ Skills
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; min-width: 45%;">
+
+**Frontend Development:**
+- HTML5, CSS3, JavaScript (ES6+), React
+
+**Backend Development:**
+- Node.js, Express.js
+- RESTful APIs, CRUD operations
+- MongoDB, Mongoose (NoSQL databases)
+
+**Testing:**
+- Unit Testing with Jest and React Testing Library
+
+**Development Tools:**
+- npm, Postman (API testing)
+
+**Soft Skills:**
+- Problem Solving & Critical Thinking
+- Adaptability & Collaboration
+- Self-motivation & Time Management
+- Attention to Detail
+
+  </div>
+
+  <div style="flex: 1; min-width: 45%; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkuznets23&layout=compact&theme=radical" width="1000" />
+  </div>
+</div>
+
+
 ---
 
 🔗 **Connect with me:**  
