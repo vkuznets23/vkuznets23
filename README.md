@@ -8,48 +8,7 @@ At Hive I’m learning C and C++ programming, focusing on foundational topics (e
 ### 📚 Taking the **Full Stack Developer** course by [Open University of Helsinki](https://fullstackopen.com/):
 During the course I gained experience in front-end development, building dynamic SPAs and working with backend technologies to create and connect RESTful APIs to databases. **Currently, I'm focused on writing tests and applying Test-Driven Development (TDD) to ensure code reliability and quality.**
 
-![Languages](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb)
-
-
-## 🛠️ Skills
-
-<table>
-  <tr>
-    <th>Frontend Development</th>
-    <th>Backend Development</th>
-    <th>Soft Skills</th>
-  </tr>
-  <tr>
-    <td>
-      - HTML5, CSS3, JavaScript (ES6+), React
-    </td>
-    <td>
-      - Node.js, Express.js
-      - RESTful APIs, CRUD operations
-      - MongoDB, Mongoose (NoSQL databases)
-    </td>
-    <td>
-      - Problem Solving & Critical Thinking
-      - Adaptability & Collaboration
-      - Self-motivation & Time Management
-      - Attention to Detail
-    </td>
-  </tr>
-  <tr>
-    <th>Testing</th>
-    <th>Development Tools</th>
-    <th></th> <!-- Empty cell to keep the table balanced -->
-  </tr>
-  <tr>
-    <td>
-      - Unit Testing with Jest and React Testing Library
-    </td>
-    <td>
-      - npm, Postman (API testing)
-    </td>
-    <td></td> <!-- Empty cell to keep the table balanced -->
-  </tr>
-</table>
+![Languages](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,MongoDB,postman,jest)
 
 ---
 
