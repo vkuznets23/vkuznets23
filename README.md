@@ -5,8 +5,6 @@ I'm an aspiring Frontend Developer with UX/UI designer experience. I am currentl
 ### 🎓 Studying at **Hive**:
 At Hive I’m learning C and C++ programming, focusing on foundational topics (e.g. variables, control flows, and object-oriented programming). I’m also studying Data Structures & Algorithms, Concurrent Programming (using threads and processes). **Currently I'm working on a Graphics Programming project to develop a 3D game with ray tracing techniques**
 
-[Here](./HiveSchoolProjects) you can check out my projects.
-
 ![Languages](https://skillicons.dev/icons?i=c,cpp)
 
 ### 📚 Taking the **Full Stack Developer** course:
