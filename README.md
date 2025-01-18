@@ -1,4 +1,4 @@
-###About me 👋
+### About me 👋
 I'm an aspiring Frontend Developer with UX/UI designer experience. I am currently studying coding at [Hive Helsinki](https://www.hive.fi/en/about-hive/) and actively expanding my skills through a [Full Stack Web Development](https://fullstackopen.com/) Open University course at Helsinki University.
 
 
