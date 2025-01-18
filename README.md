@@ -9,10 +9,3 @@ At Hive I’m learning C and C++ programming, focusing on foundational topics (e
 During the course I gained experience in front-end development, building dynamic SPAs and working with backend technologies to create and connect RESTful APIs to databases. **Currently, I'm focused on writing tests and applying Test-Driven Development (TDD) to ensure code reliability and quality.**
 
 ![Languages](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb,postman,jest)
-
----
-
-## 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriia-kuznetsova/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.cuzneczowa23@gmail.com)
-
