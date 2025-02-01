@@ -3,7 +3,7 @@ I'm an aspiring Frontend Developer with UX/UI designer experience. I am currentl
 
 
 ### 🎓 Studying at **Hive**:
-At Hive I’m learning C and C++ programming, focusing on foundational topics (e.g. variables, control flows, and object-oriented programming). I’m also studying Data Structures & Algorithms, Concurrent Programming (using threads and processes). **Currently I'm working on a Graphics Programming project to develop a 3D game with ray tracing techniques**
+At Hive I’m learning C and C++ programming, focusing on foundational topics (e.g. variables, control flows, and object-oriented programming). I’m also studying Data Structures & Algorithms, Concurrent Programming (using threads and processes). **Currently I'm working on object-oriented programming by doing CPP modules at Hive Helsinki**
 
 ![Languages](https://skillicons.dev/icons?i=c,cpp)
 
