@@ -10,6 +10,6 @@ At Hive I’m learning C and C++ programming, focusing on foundational topics (e
 ### 📚 Taking the **Full Stack Developer** course:
 During the course I gained experience in front-end development, building dynamic SPAs, and working with backend technologies to create and connect RESTful APIs to databases. **Currently, I'm focused on writing tests and applying Test-Driven Development (TDD) to ensure code reliability and quality.**
 
-![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,mongodb,postman,jest) ![Playwright](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg)
+![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,mongodb,postman,jest) <img src="https://img.shields.io/badge/Playwright-%231F8CFF?style=for-the-badge&logo=playwright&logoColor=white" height="50">
 
 
