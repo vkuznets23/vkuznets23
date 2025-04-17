@@ -1,15 +1,20 @@
-### 👋 About me
-I'm an aspiring Frontend Developer with UX/UI designer experience. I am currently studying coding at [Hive Helsinki](https://www.hive.fi/en/about-hive/) and actively expanding my skills through a [Full Stack Web Development](https://fullstackopen.com/) Open University course at Helsinki University.
+## 💻 About Me
+I'm an aspiring Frontend Developer with a solid foundation in UX/UI design and a growing passion for building user-centric web applications. Currently, I’m studying at **Hive Helsinki**, where I’m diving deep into low-level programming with **C** and **C++**, exploring concepts like data structures, object-oriented programming, and concurrent programming.
 
+In parallel, I’m also completing the **Full Stack Web Development program** at the University of Helsinki, where I've built dynamic **Single Page Applications** (SPAs), connected **RESTful APIs** to databases, and practiced Test-Driven Development (TDD) to write maintainable, production-ready code.
 
-### 🎓 Studying at **Hive**:
-At Hive I’m learning C and C++ programming, focusing on foundational topics (e.g. variables, control flows, and object-oriented programming). I’m also studying Data Structures & Algorithms, Concurrent Programming (using threads and processes). **Currently I'm working on object-oriented programming by doing CPP modules at Hive Helsinki**
+## 🛠️ Tech Highlights
+**Languages:**
 
-![Languages](https://skillicons.dev/icons?i=c,cpp)
+![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,c,cpp)
 
-### 📚 Taking the **Full Stack Developer** course:
-During the course I gained experience in front-end development, building dynamic SPAs, and working with backend technologies to create and connect RESTful APIs to databases. **Currently, I'm focused on writing tests and applying Test-Driven Development (TDD) to ensure code reliability and quality.**
+**Frameworks/Libraries:**
 
-![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,mongodb,postman,jest) <img src="https://playwright.dev/img/playwright-logo.svg" width="55" alt="Playwright Logo">
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express)
+
+**Other tools:**
+
+![Tools](https://skillicons.dev/icons?i=postman,jest)<img src="https://playwright.dev/img/playwright-logo.svg" width="55" alt="Playwright Logo">
+
 
 
