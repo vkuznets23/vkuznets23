@@ -14,7 +14,7 @@ In parallel, I’m also completing the **Full Stack Web Development program** at
 
 **Other tools:**
 
-![Tools](https://skillicons.dev/icons?i=postman,jest)<img src="https://playwright.dev/img/playwright-logo.svg" width="55" alt="Playwright Logo">
+![Tools](https://skillicons.dev/icons?i=postman,jest,redux)<img src="https://playwright.dev/img/playwright-logo.svg" width="55" alt="Playwright Logo">
 
 
 
