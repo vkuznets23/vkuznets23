@@ -1,20 +1,13 @@
 ## 💻 About Me
-I'm an aspiring Frontend Developer with a solid foundation in UX/UI design and a growing passion for building user-centric web applications. Currently, I’m studying at **Hive Helsinki**, where I’m diving deep into low-level programming with **C** and **C++**, exploring concepts like data structures, object-oriented programming, and concurrent programming.
+I’m a career shifter currently studying web development at Hive Helsinki. With a background in UX/UI design, I’ve always been passionate about creating intuitive and engaging user experiences — and now I’m bringing that passion into frontend development. I’m diving deep into building user-centric products that not only work well but also feel great to use.
 
-In parallel, I’m also completing the **Full Stack Web Development program** at the University of Helsinki, where I've built dynamic **Single Page Applications** (SPAs), connected **RESTful APIs** to databases, and practiced Test-Driven Development (TDD) to write maintainable, production-ready code.
+## Check this projects out
+### [Camagru](./camagru)
+Instagram clone that replicates core functionality such as user authentication, photo uploads, likes, comments etc. The project focuses on full-stack development, integrating a PostgreSQL database via Prisma ORM and leveraging modern features of Next.js for performance and scalability.
+
 
 ## 🛠️ Tech Highlights
-**Languages:**
-
-![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,c,cpp)
-
-**Frameworks/Libraries:**
-
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express)
-
-**Other tools:**
-
-![Tools](https://skillicons.dev/icons?i=postman,jest,redux)<img src="https://playwright.dev/img/playwright-logo.svg" width="55" alt="Playwright Logo">
+![](https://skillicons.dev/icons?i=html,css,javascript,typescript,c,cpp,react,nodejs,express,nextjs,postman,jest)<img src="https://playwright.dev/img/playwright-logo.svg" width="55" alt="Playwright Logo">
 
 
 
