@@ -5,7 +5,8 @@ I’m a career shifter currently studying web development at Hive Helsinki. With
 ## 🚀 Check this projects out
 ### [Camagru](https://github.com/vkuznets23/camagru.git) **(in progress)**
 
-Instagram clone that replicates core functionality such as user authentication, photo uploads, likes, comments etc. The project focuses on full-stack development, integrating a PostgreSQL database via Prisma ORM and leveraging modern features of Next.js for performance and scalability.
+Developed a full-stack Instagram clone replicating core social media features: secure user authentication with email verification, photo uploads via Cloudinary, like and comment system, user search, dark mode, infinite scrolling feed, and password reset/forgot password functionality.
+Backend implemented using Next.js API Routes with PostgreSQL and Prisma ORM; frontend built with TypeScript and custom CSS. Configured CI/CD on Vercel, implemented responsive design, and began accessibility improvements. Ensured code quality with unit tests (Jest, React Testing Library) and end-to-end tests (Playwright).
 
 ### [ft_transcendence](https://github.com/vkuznets23/ft_transcendence.git) **(in progress)**
 A classic Pong game implemented using React and TypeScript. Features customizable paddle sizes, adjustable difficulty levels, and dynamic obstacles for an extra challenge. Responsive controls support keyboard input for two players. This project demonstrates canvas rendering, game loop logic, and state management within a React functional component.
