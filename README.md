@@ -8,6 +8,8 @@ I’m a career shifter currently studying web development at Hive Helsinki. With
 * Instagram clone built with Next.js (TypeScript), PostgreSQL, Prisma ORM, Cloudinary, and Vercel. Features include email-verified signup, photo uploads, likes, comments, user search, infinite scrolling, and dark mode.
 * One of my first major projects completed during the Hive mentorship program, where I handled everything—from design and frontend to backend and deployment.
 
+[View the deployed project](camagru-tau.vercel.app)
+
 ### [ft_transcendence](https://github.com/vkuznets23/ft_transcendence.git) **(in progress)**
 * Classic Pong game built with React, TypeScript, and TailwindCSS.
 * Team project of four completed during the Hive studying. My focus was on UX/UI design and frontend development of the game logic and interface.
