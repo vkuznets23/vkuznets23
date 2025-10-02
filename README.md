@@ -9,10 +9,6 @@ I’m a career shifter currently studying web development at Hive Helsinki. With
 * One of my first major projects completed during the Hive mentorship program, where I handled everything—from design and frontend to backend and deployment.
 
 
-### [ft_transcendence](https://github.com/vkuznets23/ft_transcendence.git) **(in progress)**
-* Classic Pong game built with React, TypeScript, and TailwindCSS.
-* Team project of four completed during the Hive studying. My focus was on UX/UI design and frontend development of the game logic and interface.
-
 
 ## 🛠️ Tech Highlights
 ![](https://skillicons.dev/icons?i=html,css,javascript,typescript,c,cpp,react,nodejs,express,nextjs,postman,jest)<img src="https://playwright.dev/img/playwright-logo.svg" width="55" alt="Playwright Logo">
