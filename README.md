@@ -9,7 +9,7 @@ I’m a career shifter currently studying web development at Hive Helsinki. With
 * One of my first major projects completed during the Hive mentorship program, where I handled everything—from design and frontend to backend and deployment.
 
 ### [Portfolio website](https://github.com/vkuznets23/portfolio.git) **(in progress)**
-* SAP built with React and deployed on Vercel
+* landing page, built with React and deployed on Vercel
 
 
 
