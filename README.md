@@ -8,8 +8,8 @@ I’m a career shifter currently studying web development at Hive Helsinki. With
 * Instagram clone built with Next.js (TypeScript), PostgreSQL, Prisma ORM, Cloudinary, and Vercel. Features include email-verified signup, photo uploads, likes, comments, user search, infinite scrolling, and dark mode.
 * One of my first major projects completed during the Hive mentorship program, where I handled everything—from design and frontend to backend and deployment.
 
-### [Portfolio website](https://github.com/vkuznets23/portfolio.git) **(in progress)**
-* landing page, built with React and deployed on Vercel
+### [Portfolio website](https://github.com/vkuznets23/portfolio.git)
+My portfolio website features interactive and accessible design, including language and theme switching with light and dark modes. I focused on accessibility and VoiceOver support, implemented a custom typography tool to handle hanging prepositions, and carefully designed animations triggered by scroll observers for a smooth user experience. Overall, the project emphasizes polished animations, performance, and attention to detail across devices.
 
 
 
