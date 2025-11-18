@@ -2,7 +2,7 @@
 
 I’m a full-stack developer with a background in UX/UI design. I’ve always been passionate about creating intuitive and accessible interfaces, and now I’m bringing that passion into software development. I take ownership of my work, like to explore new tools and approaches to deliver high quality work, and believe in learning by doing and sharing with others.
 
-## 🚀 Check this projects out
+## 🚀 Check these projects out
 ### [Camagru](https://github.com/vkuznets23/camagru.git) **(in progress)**
 
 * Instagram clone built with Next.js (TypeScript), PostgreSQL, Prisma ORM, Cloudinary, and Vercel. Features include email-verified signup, photo uploads, likes, comments, user search, infinite scrolling, and dark mode.
